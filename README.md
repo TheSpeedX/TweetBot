@@ -24,6 +24,7 @@ So You dont even need Any GUI Browser To Make it Work.
 ### How To Run 
 
 ```
+git clone https://github.com/TheSpeedX/TweetBot
 cd TweetBot
 python tweetbot.py
 ```
