@@ -13,19 +13,20 @@ You Can Simply Do By Put Your Account Creds.
 This Can be run in Android By Termux
 
 ## Requirements
-This Bot Was Made Keeping Speed And Resource Usage in Mind.  <br>
-So it uses least of requirements.  <br>
-lynx   <br>
-```apt install lynx```   <br>
-python3  <br>
-```apt install python```
+This Bot Was Made Keeping Speed And Resource Usage in Mind.  
+So it uses least of requirements.  
+
+```apt install lynx python```
 
 This uses lynx as a commandline browser.  <br>
 So You dont even need Any GUI Browser To Make it Work.
 
 ### How To Run 
 
-```python tweetbot.py```
+```
+cd TweetBot
+python tweetbot.py
+```
 
 This Prevents You From Being Detected As Bot By Doing Human Like interaction And Random Delays.
 
